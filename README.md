@@ -4,7 +4,7 @@
 
 **1.Mustafa Kaya**
 2. Gunalaltay
-3. göztepe
+3. göztepe 35
 `System.out.println("das wetter is schön")`
-
+4. galip
 --
